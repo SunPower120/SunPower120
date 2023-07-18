@@ -8,7 +8,10 @@ Here are some details about me:
 
 🌱 I’m currently studying Java at Codelex with an aim to become a proficient backend or full-stack developer. I have certifications in C++ from ProgrammingHub and have taken Python courses on SoloLearn. I have also finished introductory courses in JavaScript/TypeScript through Codelex.
 
-💼 Check out my latest projects: RPSSE, Flight Planner, Prep Course Final
+💼 Check out my latest projects:
+    RPSSE: A rock, paper, scissors, spock, lizard console game in Java.
+    Flight Planner: An application for flights in Java using Spring Boot. Upcoming frontend and database are on the way!
+    Prep Course Final: A compilation of work in JavaScript, including games like Snake, Tic Tac Toe, and Minesweeper. (Only game logic wo frontend).
 
 💬 Ask me about my journey transitioning from engineering to coding, about Python, C++, or my ongoing experience with Java. I can also share some insights on building independent websites.
 
