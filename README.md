@@ -1,6 +1,3 @@
-
-Sure! Here is the revised version:
-
 Hi there 👋
 I'm Andris Grudulis!
 Here are some details about me:
