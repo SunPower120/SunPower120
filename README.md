@@ -68,8 +68,9 @@ I'm Andris! Here are some details about me:
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunPower120&layout=compact&theme=vision-friendly-dark">
+        <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunPower120&layout=compact&theme=vision-friendly-dark&langs_count=10">
     </a>
+</p>
 </br>
     <a href="https://git.io/streak-stats">
         <img width="350em" src="http://github-readme-streak-stats.herokuapp.com?user=SunPower120&theme=dark&background=000000">
