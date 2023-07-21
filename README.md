@@ -1,4 +1,4 @@
----
+
 <h3 align="left">Hi there 👋 </h3>
 I'm Andris! Here are some details about me:
 
@@ -80,4 +80,8 @@ I'm Andris! Here are some details about me:
 </p>
 
 -----
-
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunPower120&layout=compact&theme=vision-friendly-dark&langs_count=10&count_private=true&include_all_commits=true">
+    </a>
+</p>
