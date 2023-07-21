@@ -16,3 +16,6 @@ Here are some details about me:
 💬 Ask me about my journey transitioning from engineering to coding, about Python, C++, or my ongoing experience with Java. I can also share some insights on building independent websites.
 
 ⚡ Fun fact: When I am not coding, you can find me hiking, riding motorcycles, or traveling. I love exploring new technologies in my free time.
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SunPower120&theme=dark&background=000000)](https://git.io/streak-stats)
