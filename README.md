@@ -21,6 +21,7 @@ Here are some details about me:
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPower120&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SunPower120&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunPower120&layout=compact&theme=vision-friendly-dark">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=SunPower120&theme=dark&background=000000">
+</p>
