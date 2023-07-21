@@ -3,7 +3,7 @@ I'm Andris! Here are some details about me:
 
 - 🔭 I have over 15 years of experience in the field of civil engineering, with roles ranging from a projector to head of department in a civil engineering company. My coding journey started with developing small applications for Arduino.
 
-- 🌱 I’m currently studying Java at Codelex with an aim to become a proficient backend or full-stack developer. I have certifications in C++ from ProgrammingHub and have taken Python courses on SoloLearn. I have also finished introductory courses in JavaScript/TypeScript through Codelex.
+- 🌱 I’m currently working at Codelex as software developer. I have certifications in C++ from ProgrammingHub and have taken JAVA courses on SoloLearn.
 
 - 💼 Check out my latest projects:
   - RPSSE: A rock, paper, scissors, spock, lizard console game in Java.
