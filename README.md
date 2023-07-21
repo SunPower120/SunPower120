@@ -80,4 +80,4 @@ I'm Andris! Here are some details about me:
 
 -----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPower120&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunpower120&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
