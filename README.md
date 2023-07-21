@@ -72,6 +72,7 @@ I'm Andris! Here are some details about me:
     </a>
 </p>
 </br>
+<p align="center">
     <a href="https://git.io/streak-stats">
         <img width="350em" src="http://github-readme-streak-stats.herokuapp.com?user=SunPower120&theme=dark&background=000000">
     </a>
