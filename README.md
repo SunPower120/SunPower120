@@ -18,6 +18,6 @@ Here are some details about me:
 ⚡ Fun fact: When I am not coding, you can find me hiking, riding motorcycles, or traveling. I love exploring new technologies in my free time.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPower120&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPower120&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SunPower120&theme=dark&background=000000)](https://git.io/streak-stats)
