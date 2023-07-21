@@ -23,10 +23,10 @@ Here are some details about me:
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunPower120&layout=compact&theme=vision-friendly-dark">
+        <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunPower120&layout=compact&theme=vision-friendly-dark">
     </a>
 </br>
     <a href="https://git.io/streak-stats">
-        <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=SunPower120&theme=dark&background=000000">
+        <img width="180em" src="http://github-readme-streak-stats.herokuapp.com?user=SunPower120&theme=dark&background=000000">
     </a>
 </p>
