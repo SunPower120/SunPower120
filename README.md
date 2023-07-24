@@ -1,5 +1,6 @@
 <p align="center">
   <img width="100%" src="https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/5%20Best%20Coding%20Programs%20for%20Aspiring%20Programmers1650304687858345.jpg">
+  </p>
 
 
 <h3 align="left">Hi there 👋 </h3>
@@ -84,4 +85,4 @@ I'm Andris! Here are some details about me:
 
 -----
 
-</p>
+
