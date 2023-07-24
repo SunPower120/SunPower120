@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/5%20Best%20Coding%20Programs%20for%20Aspiring%20Programmers1650304687858345.jpg">
+  <img width="100%" src="https://drive.google.com/file/d/1T5mt-_Y8uDxH3yb4ODNDNVn6fVcDCdh1/view?usp=drive_link">
   </p>
 
 
