@@ -1,4 +1,6 @@
-background: [url(background-photo.jpg)](https://media.istockphoto.com/id/1305986810/vector/abstract-arrow-direction-technology-background.jpg?s=612x612&w=0&k=20&c=8IHTevFBKblRSREl-YryojUreJDNz1Uu-88C61OSRQA=) center center cover no-repeat fixed;
+<p align="center">
+  <img width="100%" src="https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/5%20Best%20Coding%20Programs%20for%20Aspiring%20Programmers1650304687858345.jpg">
+
 
 <h3 align="left">Hi there 👋 </h3>
 I'm Andris! Here are some details about me:
@@ -82,3 +84,4 @@ I'm Andris! Here are some details about me:
 
 -----
 
+</p>
